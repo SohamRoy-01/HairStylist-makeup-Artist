@@ -186,7 +186,7 @@ section{
 
 .about .row .content p{
     font-size: 1.6rem;
-    font-weight: 500;
+    /* font-weight: 500; */
     color:#444;
     padding:1rem 0;
     line-height: 1.8;
@@ -958,9 +958,9 @@ section{
     .about {
         /* background-position: center center;
         background-size: cover; */
-        background-image: url(../images/about-left.png);
+        background-image: url(../images/about-left.png) ;
     background-size: contain;
-    background-position: center;
+    background-position: top;
     background-repeat: no-repeat;
         }
         
