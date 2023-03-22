@@ -1,4 +1,4 @@
-# Prerana Sarkar - Portfolio
+# Prerana Sarkar - Portfolio:: HairStylist -makeup-artist
 
 This is the code for the website of Prerana Sarkar, a hair stylist and makeup artist. The website includes sections for a header, a home page, an about section, premium services, and styles.
 
